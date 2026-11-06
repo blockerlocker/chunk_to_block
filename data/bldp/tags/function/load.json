@@ -1,0 +1,7 @@
+{
+    "values": [
+        "bldp:mined_block/load",
+        "bldp:registry/blocks",
+        "bldp:main/load"
+    ]
+}

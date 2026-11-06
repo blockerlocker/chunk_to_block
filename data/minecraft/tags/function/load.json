@@ -1,0 +1,8 @@
+{
+    "values": [
+        "#bldp:load",
+        "iris:setup/load",
+        "when_block_mined:load",
+        "chunk_to_block:zzz/load"
+    ]
+}

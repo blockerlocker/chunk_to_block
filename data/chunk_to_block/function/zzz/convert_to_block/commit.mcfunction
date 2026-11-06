@@ -1,0 +1,1 @@
+$execute positioned $(x) -64 $(z) run fill ~ ~ ~ ~15 319 ~15 $(block) replace #bldp:non_air_blocks strict

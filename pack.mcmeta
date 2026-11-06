@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Mining blocks freezes a chunk into bedrock",
+    "min_format": 126,
+    "max_format": 126
+  }
+}

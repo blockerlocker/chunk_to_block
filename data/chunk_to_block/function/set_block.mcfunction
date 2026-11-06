@@ -1,0 +1,1 @@
+$data modify storage chunk_to_block:settings block set value $(block)

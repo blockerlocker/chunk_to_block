@@ -1,0 +1,3 @@
+For Minecraft 26.4
+
+When the player mines a block, the entire chunk that block is in converts into Bedrock by default, but you can configure it with the command `/data modify storage chunk_to_block:settings block set value <BLOCK_ID>` where `<BLOCK_ID>` is replaced with whatever you want. If you set it to `random`, it will pick a random block instead of a preset one. If you set it to `mined_block`, it will change the entire block to whatever block you mined.
